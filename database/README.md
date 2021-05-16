@@ -1,2 +1,3 @@
 # HRMS Database
-![hrms](https://user-images.githubusercontent.com/61615580/118378692-31ee4c80-b5de-11eb-9bae-db3b05d6a47f.png)
+![postgresql](https://user-images.githubusercontent.com/61615580/118416107-b9a78a00-b6b6-11eb-8dc7-429428a0acb2.png)
+
